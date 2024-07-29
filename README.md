@@ -14,6 +14,16 @@ The Document Summarizer is a Python-based application that uses the `transformer
 - **File Upload**: Allows users to upload files directly for summarization.
 - **Real-Time Feedback**: Displays the summarized text in an output area.
 
+## 1. Text Summary
+
+![Text summary output](https://github.com/user-attachments/assets/cd86833c-c2d9-4715-8649-2a3f6b914070)
+
+
+## 2. Document Summary
+
+![File upload summary](https://github.com/user-attachments/assets/1e4c3a28-0afb-4a2a-997d-3d0d88c0edca)
+
+
 ## Installation
 
 To install the required libraries, run the following command:
