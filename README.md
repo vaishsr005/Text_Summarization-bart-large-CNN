@@ -22,11 +22,3 @@ The Document Summarizer is a Python-based application that uses the `transformer
 ## 2. Document Summary
 
 ![File upload summary](https://github.com/user-attachments/assets/1e4c3a28-0afb-4a2a-997d-3d0d88c0edca)
-
-
-## Installation
-
-To install the required libraries, run the following command:
-
-```bash
-!pip install transformers ipywidgets python-docx PyMuPDF
